@@ -1,2 +1,3 @@
-# triplogcz
-Generátor záznamů do knihy jízd dle vyplněných údajů o tankování paliva
+## Kniha jízd ##
+
+Stačí jen vyplnit pár parametrů pro nastavení, údaje o tankování paliva a skript podle toho vygeneruje knihu jízd.
